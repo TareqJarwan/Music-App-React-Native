@@ -10,7 +10,15 @@
 ![image6](https://github.com/TareqJarwan/Music-App-React-Native/blob/main/screenshots/Screenshot%20from%202020-11-07%2021-22-11.png)
 
 
+### Specifications:
 
+- I used plain Javascript.
+- I used plain React-Native.
+- I used Axios to make HTTP Requests
+- I setup Jest & EnzymeJS for testing (without writing any test )
+- I attached a screenshots of the running App
+- I used React-Hooks and functional components over class components.
+- I used Happi for music data API.
 
 
 
